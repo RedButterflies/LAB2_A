@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2_A</string>
+    <string name="imie">a</string>
+    <string name="nazwisko">b</string>
+    <string name="liczba_ocen">c</string>
+    <string name="oceny">d</string>
+    <string name="first_name_empty_error">e</string>
+    <string name="last_name_empty_error">f</string>
+    <string name="grades_range_error">g</string>
+    <string name="button_clicked_toast">h</string>
+    <string name="imie_auto_fill">i</string>
+    <string name="imie_edit_hint">j</string>
+    <string name="nazwisko_auto_fill">k</string>
+    <string name="nazwisko_edit_hint">l</string>
+    <string name="liczba_ocen_edit_hint">m</string>
+</resources>

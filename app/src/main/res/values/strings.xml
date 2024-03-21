@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab2_A</string>
+    <string name="imie">Imię:</string>
+    <string name="nazwisko">Nazwisko:</string>
+    <string name="liczba_ocen">Liczba ocen:</string>
+    <string name="oceny">Oceny</string>
+    <string name="first_name_empty_error">Pole IMIĘ nie może być puste</string>
+    <string name="last_name_empty_error">Pole NAZWISKO nie może być puste</string>
+    <string name="grades_range_error">Liczba ocen musi zawierać się między 5 a 15</string>
+    <string name="button_clicked_toast">Przycisk OCENY został naciśnięty</string>
+    <string name="imie_auto_fill">Imię</string>
+    <string name="imie_edit_hint">Wpisz imię</string>
+    <string name="nazwisko_auto_fill">Nazwisko</string>
+    <string name="nazwisko_edit_hint">Wpisz nazwisko</string>
+    <string name="liczba_ocen_edit_hint">Wpisz liczbę ocen</string>
+    <string name="firstname" translatable="false">firstName</string>
+    <string name="lastname" translatable="false">lastName</string>
+    <string name="grades" translatable="false">grades</string>
+    <string name="buttonvisibility" translatable="false">buttonVisibility</string>
+</resources>

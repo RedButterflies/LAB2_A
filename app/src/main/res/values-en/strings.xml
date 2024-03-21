@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2_A</string>
+    <string name="imie">Name:</string>
+    <string name="nazwisko">Last name:</string>
+    <string name="liczba_ocen">Grade number:</string>
+    <string name="oceny">GRADES</string>
+    <string name="first_name_empty_error">The NAME cannot be empty</string>
+    <string name="last_name_empty_error">Thw LAST NAME cannot be empty</string>
+    <string name="grades_range_error">The grade number must be a value between 5 and 15</string>
+    <string name="button_clicked_toast">The GRADE button has been clicked</string>
+    <string name="imie_auto_fill">Name</string>
+    <string name="imie_edit_hint">Type in your name</string>
+    <string name="nazwisko_auto_fill">Last name</string>
+    <string name="nazwisko_edit_hint">Type in your last name</string>
+    <string name="liczba_ocen_edit_hint">Type in your grade number</string>
+</resources>
